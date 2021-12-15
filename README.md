@@ -2,8 +2,8 @@
 MiniArkanoid to zręcznościowa gra akcji.
 
 ## General Information
-Sterujemy małą paletką, którą odbijamy piłeczkę.\
-Piłeczka może niszczyć cegły odktórych się odbije.\
+Sterujemy małą paletką, którą odbijamy piłeczkę.  
+Piłeczka może niszczyć cegły odktórych się odbije.  
 
 W ten sposób należy zniszczyć wszystkie cegły bez pozwolenia, by piłeczka spadła pod peletkę.
 
