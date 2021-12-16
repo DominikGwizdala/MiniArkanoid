@@ -24,3 +24,6 @@ W ten sposób należy zniszczyć wszystkie cegły bez pozwolenia, by piłeczka s
 ## Usage
  Program został stworzony jedynie w celu rozrowykowym.  
  
+## Inspiration 
+  
+  https://www.youtube.com/c/Pasjainformatykitutoriale
